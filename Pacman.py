@@ -19,7 +19,7 @@ class Pacman (Character):
         self.rect.left = 315
         self.rect.top = 315
         self.direction = 0
-        self.speed = 3
+        self.speed = 5
         self.moveUp = self.moveLeft = self.moveDown = self.moveRight = False
         self.score = 0
         self.lives = 3
