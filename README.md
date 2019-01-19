@@ -1,6 +1,7 @@
 # Pacman - Pygame
 
 A remake of the classic Pac-Man arcade game using Python and Pygame. Made by Bruno ALmeidia
+
 I'm developing a python Pacman that can be controled by Raspberry pi GPIO
 
 Pac-Man: https://en.wikipedia.org/wiki/Pac-Man
